@@ -83,8 +83,8 @@ UPSTASH_REDIS_REST_TOKEN=your_token
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/like-button-api.git
-cd like-button-api
+git clone https://github.com/emmanuelayinde/Norebase-Backend-Coding-Challenge.git
+cd Norebase-Backend-Coding-Challenge
 ```
 
 2. Install dependencies:
